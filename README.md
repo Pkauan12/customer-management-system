@@ -33,13 +33,8 @@ Data is stored locally in an SQLite database, eliminating the need to install a 
 
 ## 📸 Menu Example
 
-Customer Management System
+<img width="202" height="166" alt="image" src="https://github.com/user-attachments/assets/90bd67ee-669e-4ca7-9bee-dfee8d3e7f34" />
 
-- Add Customer
-- List Customers
-- Delete Customer
-- Edit Customer
-- Exit
 
 ## 📚 Project Objective
 This project was created for learning purposes to practice the integration between Python and relational databases by implementing a customer management system in a terminal environment.
