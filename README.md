@@ -32,9 +32,9 @@ Data is stored locally in an SQLite database, eliminating the need to install a 
 - Usage of fetchall() and fetchone()
 
 ## 📸 Menu Example
-==============================
+
 Customer Management System
-==============================
+
 - Add Customer
 - List Customers
 - Delete Customer
