@@ -35,11 +35,11 @@ Data is stored locally in an SQLite database, eliminating the need to install a 
 ==============================
 Customer Management System
 ==============================
-Add Customer
-List Customers
-Delete Customer
-Edit Customer
-Exit
+- Add Customer
+- List Customers
+- Delete Customer
+- Edit Customer
+- Exit
 
 ## 📚 Project Objective
 This project was created for learning purposes to practice the integration between Python and relational databases by implementing a customer management system in a terminal environment.
